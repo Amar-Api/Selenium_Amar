@@ -7,5 +7,6 @@ public class Sample1 {
 	@Test
 	public void launch() {
 		Reporter.log("Sample Class Launched", true);
+		Reporter.log("Github Class Launched", true);
 	}
 }
